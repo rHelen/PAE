@@ -1,0 +1,50 @@
+.navbar-color{
+    background-color: #DD6100;
+    min-width: 100vw;
+    height: 60px;
+}
+
+.logo{
+    background-color: #106EB0;
+    /* border: #FFCB45;
+    stroke: #FFCB45; */
+}
+
+.atendimento-button{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.btn-cadastro{
+    background-color: #106EB0;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    height: 30px;
+    width: 180px;
+}
+
+.painel-filtros{
+    background-color: #EDEDED;
+    height: 200px;
+    width: 1000px;
+    border-radius: 4px;
+}
+
+.botão-filtrar{
+    background-color: #DD6100;
+    font-weight: bold;
+    border: none;
+    height: 50px;
+    width: 120px;
+    font-size: 17px;
+    border-radius: 5px;
+}
+
+.botão-filtrar:hover{
+    background-color: #AB4A00;
+}
+
+.filtro-geral{
+    height: 70px;
+}
